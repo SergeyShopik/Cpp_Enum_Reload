@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\ENUM reload\Debug\ENUM reload.exe
+C:\Users\HP\source\repos\ENUM reload\Debug\ENUM reload.pdb
